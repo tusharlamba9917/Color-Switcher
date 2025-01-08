@@ -1,0 +1,28 @@
+#pink{
+    background-color: pink;
+    padding: 20px 40px;
+    cursor: pointer;
+    border: 2px solid black;
+   margin-right: 10px;
+}
+#red{
+    background-color: red;
+    padding: 20px 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+#yellow{
+    background-color: yellow;
+    padding: 20px 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+#green{
+    background-color: green;
+    padding: 20px 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    margin-right: 10px;
+}
